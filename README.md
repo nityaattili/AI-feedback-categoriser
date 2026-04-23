@@ -17,8 +17,8 @@ Product teams receive hundreds of feedback items per month. Manually categorisin
 ## Quick Start
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/feedback-categoriser
-cd feedback-categoriser
+git clone https://github.com/nityaattili/AI-feedback-categoriser.git
+cd AI-feedback-categoriser
 pip install -r requirements.txt
 
 cp .env.example .env
