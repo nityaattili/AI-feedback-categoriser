@@ -121,10 +121,10 @@ Performance                  0.833     0.833     0.833
 
 ## What I Would Build Next (v2)
 
-1. **Trend detection** — flag categories that have increased > 20% week-over-week
-2. **Slack integration** — post daily summary of High priority items to #product-feedback
-3. **Notion database push** — automatically create Notion entries for each High priority item
-4. **Multi-language support** — classify feedback in Hindi, Spanish, etc.
+1. **Trend detection** - flag categories that have increased > 20% week-over-week
+2. **Slack integration** - post daily summary of High priority items to #product-feedback
+3. **Notion database push** - automatically create Notion entries for each High priority item
+4. **Multi-language support** - classify feedback in Hindi, Spanish, etc.
 
 ---
 
@@ -140,9 +140,9 @@ Performance                  0.833     0.833     0.833
 - API cost < $0.05 per 100 items
 
 **Top two risks:**
-1. Taxonomy drift — the fixed categories may not fit every product domain. Mitigation: expose taxonomy as a configurable JSON file in v2.
-2. Priority disagreement — "High" vs "Medium" judgment calls vary by company context. Mitigation: expose priority rules as editable config.
+1. Taxonomy drift - the fixed categories may not fit every product domain. Mitigation: expose taxonomy as a configurable JSON file in v2.
+2. Priority disagreement - "High" vs "Medium" judgment calls vary by company context. Mitigation: expose priority rules as editable config.
 
 ---
 
-*Built as part of a 12-week AI PM Portfolio Programme.*
+
